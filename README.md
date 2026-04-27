@@ -7,5 +7,5 @@ FEATURES
 - view current inventory
 - view today's intake records
 
-PURPOSE
+PURPOSE:
 This project was developed as a school project to apply fundamental programming concepts in C++.
